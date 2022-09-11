@@ -1,2 +1,2 @@
 # My-JavaScript-Learning-Projects
-JavaScript öğrenirken aldığım kurslardan öğrendiğim ve kendi geliştirdiğim uygulamalar
+JavaScript öğrenirken aldığım kurslardan öğrenerek yaptığım ve kendi geliştirdiğim uygulamalar
