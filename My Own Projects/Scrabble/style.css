@@ -1,0 +1,99 @@
+*{
+    font: bold;
+    margin: 0;
+}
+body{
+    background-color: cyan;
+    justify-content: center;
+}
+.mainArea {
+    background-color: #075869;    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 870px;
+    width: 870px;
+    margin: 5px 100px 0px 500px;
+    color: white;
+    
+}
+.row{
+    display: flex;
+}
+.blockItems:hover{
+    cursor: pointer;
+    transform:scale(1.5);
+    border: 1px black solid ;
+    box-sizing: border-box;
+}
+.blockItems{
+    background-color: #07cff7;
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+    text-align: center;
+    display: inline-block;
+}
+.doublesToLetter-text{
+    
+    font-size: 15px;
+    display: inline-block;
+}
+.doublesToLetter{
+    background-color: #011d59;
+}
+.mainText{
+    color:black;
+    
+    font-size: 63px;
+    display: inline-block;
+}
+
+.triplesToWord{
+    background-color: #09e038;
+    display: inline-block;
+    text-align: center;
+}
+.triplesToWord-text{
+    color: white;
+    
+    
+    font-size: 12px;
+    display: inline-block;
+}
+.triplesToLetter{
+    display: inline-block;
+    text-align: center;
+    background-color: #ff0a74;
+}
+.triplesToLetter-text{
+    color: white;    
+    font-size: 15px;
+    display: inline-block;
+}
+.doublesToWord-text{
+    color: black;        
+    font-size: 12px;
+    display: inline-block;
+}
+.doublesToWord{
+    display: inline-block;
+    text-align: center;
+    background-color: #eeff00;
+}
+.logo{
+    background-color: lightblue;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: block;
+    font-size: 48px;
+}
+.reserved{
+    background-color: white;
+}
+.selected{
+    background-color: gray;
+    
+}
