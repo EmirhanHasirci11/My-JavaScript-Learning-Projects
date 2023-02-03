@@ -16,6 +16,7 @@ function getRandomWord() {
     return words[Math.floor(Math.random() * words.length)];
 }
 //Boşluklara kelime getirme kısmı
+
 function displayWord() {
     //Html kısmında verdiğmiz word kısmının içini doldurma kısmı  
     //1.Seçilen kelimeyi harf harf bölerek ona bir mapping uyguluyoruz her eleman için html kısmına yeni bir harf kısmı ekliyoruz
@@ -82,7 +83,7 @@ PlayAgainBtn.addEventListener('click', function () {
     popup.style.display = 'none';
 });
 //Sayfa üzerindeyken bastığımız tuşun algılanabilmesi için gerekli olan kısım
-window.addEventListener('keydown', function (e) {
+window.addEventListener('keydown', (e)=> {
     //Eğer playcontrol aktifse bastığımız tuşlar algılanıyor kaybettiğimizde false olduğu için çalışmıyor
     if (playControl) {
 

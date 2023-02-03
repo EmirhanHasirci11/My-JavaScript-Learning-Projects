@@ -27,11 +27,11 @@ function calculateTotal() {
     const selectedSeatsArr = [];
     const seatsArr = [];
 //Diziye koltuk ekleme işlemi
-    selectedSeats.forEach(function (seat) {
+    selectedSeats.forEach((seat)=> {
         selectedSeatsArr.push(seat);
     });
 
-    seats.forEach(function (seat) {
+    seats.forEach((seat)=> {
         seatsArr.push(seat);
     });
 

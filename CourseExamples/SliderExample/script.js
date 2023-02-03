@@ -2,31 +2,31 @@
 var models = [
     {
         name: '0 sayısı',
-        image: '/SliderExample/img/0.jpg',
+        image: '/CourseExamples/SliderExample/img/0.jpg',
         link: 'https://tr.wikipedia.org/wiki/0_(sayı)#:~:text=0%20sayısı%20pozitif%20ve%20negatif,Roma%20rakamlarında%20gösterilemeyen%20tek%20rakamdır.&text=Birçok%20skalada%20sıfır%20başlangıç%20ya,artı%2C%20solu%20eksi%20değerleri%20barındırır.',
 
     },
     {
         name: '1 sayısı',
-        image: '/SliderExample/img/1.jpg',
+        image: '/CourseExamples/SliderExample/img/1.jpg',
         link: 'https://tr.wikipedia.org/wiki/1_(sayı)',
 
     },
     {
         name: '2 sayısı',
-        image: '/SliderExample/img/2.jpg',
+        image: '/CourseExamples/SliderExample/img/2.jpg',
         link: 'https://tr.wikipedia.org/wiki/2_(sayı)',
 
     },
     {
         name: '3 sayısı',
-        image: '/SliderExample/img/3.jpg',
+        image: '/CourseExamples/SliderExample/img/3.jpg',
         link: 'https://tr.wikipedia.org/wiki/3_(sayı)',
 
     },
     {
         name: '4 sayısı',
-        image: '/SliderExample/img/4.jpg',
+        image: '/CourseExamples/SliderExample/img/4.jpg',
         link: 'https://tr.wikipedia.org/wiki/4_(sayı)',
 
     }
